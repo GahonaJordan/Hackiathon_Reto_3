@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Juan Perez",
+    "patientId": "PAC-001",
+    "password": "1234",
+    "plan": "Premium",
+    "networkHospitals": [
+      "Hospital Metropolitano",
+      "Hospital Central",
+      "Dermacenter",
+      "Centro Mente Clara",
+      "Clínica Neurológica Andina"
+    ],
+    "benefits": {
+      "Cardiologia": {
+        "coverage": 90,
+        "minimumCopay": 5
+      },
+      "Dermatologia": {
+        "coverage": 80,
+        "minimumCopay": 5
+      },
+      "Psicologia": {
+        "coverage": 70,
+        "minimumCopay": 10
+      },
+      "Neurologia": {
+        "coverage": 75,
+        "minimumCopay": 10
+      }
+    }
+  }
+]

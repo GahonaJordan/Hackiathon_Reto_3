@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hospital Metropolitano",
+    "specialty": "Cardiologia",
+    "price": 80
+  },
+  {
+    "name": "Hospital Central",
+    "specialty": "Cardiologia",
+    "price": 60
+  },
+  {
+    "name": "Dermacenter",
+    "specialty": "Dermatologia",
+    "price": 40
+  },
+  {
+    "name": "Clínica Vida",
+    "specialty": "Dermatologia",
+    "price": 35
+  },
+  {
+    "name": "Centro Mente Clara",
+    "specialty": "Psicologia",
+    "price": 50
+  },
+  {
+    "name": "Hospital Norte",
+    "specialty": "Psicologia",
+    "price": 65
+  },
+  {
+    "name": "Instituto NeuroSalud",
+    "specialty": "Neurologia",
+    "price": 75
+  },
+  {
+    "name": "Clínica Neurológica Andina",
+    "specialty": "Neurologia",
+    "price": 55
+  }
+]
