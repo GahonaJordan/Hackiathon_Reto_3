@@ -140,6 +140,7 @@ npm start
 Este proyecto fue desarrollado para un hackatón de MediCover por:
 - Gahona Jordan
 - Sarango Katherine
+- Torres Diego
 
 ## 🤝 Contribuciones
 
